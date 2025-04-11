@@ -1,6 +1,8 @@
 streamlit
-opencv-python
+opencv-python-headless==4.8.0.76
 numpy
 scipy
 moviepy
-
+Pillow
+imageio
+imageio-ffmpeg
